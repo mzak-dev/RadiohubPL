@@ -1,0 +1,14 @@
+{
+  "name": "radio_hub_pl",
+  "version": "0.9.0",
+  "description": "Wszystkie Radiostacje W Jednym Miejscu A Teraz W Wygodnej Aplikacji",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "radio"
+  ],
+  "author": "Dziq Digital",
+  "license": "ISC"
+}

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Radio Zet - mp3
+http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
+#EXTINF:-1,Radio Zet - aac
+http://redir.atmcdn.pl/sc/o2/Eurozet/live/audio.livx
