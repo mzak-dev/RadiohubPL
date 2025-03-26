@@ -1,6 +1,6 @@
 ## RadioHub
 
-RadioHub is a web application I created a few years ago while learning to program. The project aimed to build a simple interface for playing online radio stations. I used front-end technologies such as HTML, CSS, jQuery, and the Bootstrap framework to ensure responsiveness and an aesthetically pleasing design.
+RadioHub is a web application I created a few years ago while learning to program. The project aimed to build a simple interface for playing online radio stations. I used front-end technologies such as HTML, CSS, JS, and the Bootstrap framework to ensure responsiveness and an aesthetically pleasing design.
 
 ---
 
@@ -14,7 +14,7 @@ RadioHub is a web application I created a few years ago while learning to progra
 ### **Technologies Used**
 - **HTML**: Page structure (approximately 64% of the project's code).
 - **CSS**: Styling and visual customization (approximately 6% of the project's code).
-- **jQuery**: Handling user interactions and dynamic updates (approximately 27% of the project's code).
+- **Javascript**: Handling user interactions and dynamic updates (approximately 27% of the project's code).
 - **Bootstrap**: Framework for responsive layouts (approximately 3% of the project's code).
 
 ---
